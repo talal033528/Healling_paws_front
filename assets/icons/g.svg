@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_914" data-name="Rectangle 914" width="24" height="24" transform="translate(-10797 -7197)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(10797 7197)" clip-path="url(#clip-path)">
+    <g id="google-svgrepo-com_1_" data-name="google-svgrepo-com (1)" transform="translate(-10794.999 -7195)">
+      <path id="Union_1" data-name="Union 1" d="M1.086,14.462a9.787,9.787,0,0,1,0-8.963,10.2,10.2,0,0,1,9.1-5.5A9.9,9.9,0,0,1,17,2.6L14.124,5.346a5.7,5.7,0,0,0-3.938-1.487A6.147,6.147,0,0,0,4.379,8.007a6.383,6.383,0,0,0-.327,1.975,6.034,6.034,0,0,0,.34,1.973A6.117,6.117,0,0,0,10.186,16.1a6.121,6.121,0,0,0,3.531-1A4.874,4.874,0,0,0,15.8,11.866H10.186v-3.7h9.563a8.363,8.363,0,0,1,.215,2.04,9.658,9.658,0,0,1-3.033,7.341,9.821,9.821,0,0,1-6.745,2.418A10.2,10.2,0,0,1,1.086,14.462Z" transform="translate(-0.001 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

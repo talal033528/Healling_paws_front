@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_910" data-name="Rectangle 910" width="24" height="24" transform="translate(-10797 -7197)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(10797 7197)" clip-path="url(#clip-path)">
+    <path id="Icon_awesome-envelope" data-name="Icon awesome-envelope" d="M20.151,9.587a.242.242,0,0,1,.389.189v8.2a1.926,1.926,0,0,1-1.926,1.926H1.926A1.926,1.926,0,0,1,0,17.979v-8.2a.24.24,0,0,1,.389-.189c.9.7,2.09,1.585,6.182,4.557.846.618,2.275,1.918,3.7,1.91,1.432.012,2.888-1.316,3.7-1.91C18.065,11.176,19.252,10.285,20.151,9.587ZM10.27,14.77c.931.016,2.271-1.171,2.945-1.661,5.324-3.863,5.729-4.2,6.956-5.163a.96.96,0,0,0,.369-.758V6.426A1.926,1.926,0,0,0,18.614,4.5H1.926A1.926,1.926,0,0,0,0,6.426v.762a.966.966,0,0,0,.369.758C1.6,8.9,2,9.246,7.325,13.109,8,13.6,9.339,14.786,10.27,14.77Z" transform="translate(-10795.169 -7197.626)" fill="#fff"/>
+  </g>
+</svg>

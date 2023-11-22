@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.376" height="20.25" viewBox="0 0 22.376 20.25">
+  <g id="Group_754" data-name="Group 754" transform="translate(0.75)">
+    <path id="Icon_awesome-sticky-note" data-name="Icon awesome-sticky-note" d="M14.8,15.268H21.25V3.335A1.11,1.11,0,0,0,20.112,2.25H1.138A1.11,1.11,0,0,0,0,3.335v18.08A1.11,1.11,0,0,0,1.138,22.5H13.661V16.353A1.116,1.116,0,0,1,14.8,15.268Zm6.119,2.486-4.648,4.43a1.167,1.167,0,0,1-.806.316h-.285V16.714H21.25v.276A1.056,1.056,0,0,1,20.918,17.754Z" transform="translate(0.375 -2.25)" fill="#29b6f6"/>
+    <line id="Line_33" data-name="Line 33" x2="13" transform="translate(0 4.125)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_34" data-name="Line 34" x2="13" transform="translate(0 8.125)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_35" data-name="Line 35" x2="5.825" transform="translate(0 12.125)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_36" data-name="Line 36" x2="5.825" transform="translate(0 16.125)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>
