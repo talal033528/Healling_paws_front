@@ -21,7 +21,7 @@ class hendler_mywallet extends StatelessWidget {
         title: Text(
           "My Wallet",
           style: TextStyle(
-              fontSize: 16.sp,
+              fontSize: 14.sp,
               color: Color(0xff0000000),
               fontWeight: FontWeight.w700),
         ),
